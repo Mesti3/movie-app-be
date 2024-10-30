@@ -1,0 +1,1 @@
+export const SECRET = 'My secret key used in project'
