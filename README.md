@@ -1,6 +1,6 @@
 ## Description
 
-Creating applicaiton for movie-app backedn with microservice architecture. 
+Creating applicaiton for movie-app backend. 
 
 ## Project setup
 
